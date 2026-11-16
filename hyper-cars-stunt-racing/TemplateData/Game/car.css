@@ -1,0 +1,10 @@
+/* Hyper Cars Stunt Racing - yukleme arabasi olculeri (body.png'e gore yuzde). GameVGames sablonu bu dosyayi varsa yukler.
+   Degiskenler sahnede: araba ve logo (arabanin ustune itilir) ayni olculeri kullanir. */
+.loading-stage {
+    --lc-aspect: 3.76;      /* body.png genislik / yukseklik */
+    --lc-ground: 95.6%;     /* lastik alti: cubugun ustu */
+    --lc-front-x: 77.46%; --lc-front-y: 67.85%; --lc-front-d: 14.99%;
+    --lc-rear-x: 19.60%;  --lc-rear-y: 67.22%;  --lc-rear-d: 14.55%;
+    --lc-smoke-x: 19.6;     /* lastik dumani: arka tekerin yere degdigi nokta (%) */
+    --lc-smoke-y: 93;
+}

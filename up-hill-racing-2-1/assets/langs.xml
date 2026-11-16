@@ -1,0 +1,65 @@
+﻿Description	*	EN	*	DE	*	ES	*	FR	*	IT	*	PT	*	RU	*	TR	*	NL	*	PL	*	JA	&
+meter	*	m	*	m	*	m	*	m	*	mt	*	m	*	м	*	m	*	m	*	m	*	m	&
+reach_level	*	Reach: {next} m	*	Erreiche: {next} m	*	Alcanza: {next} m	*	Atteindre : {next} m	*	Raggiungi: {next} m	*	Atingir: {next} m	*	Цель: {next} м	*	Ulaş: {next} m	*	Bereik: {next} m	*	Pokonaj: {next} m	*	目標距離： {next} m	&
+car_shop	*	Select Car	*	Fahrzeug auswählen	*	Seleccionar coche	*	Sélection du véhicule	*	Seleziona una macchina	*	Selecionar o Carro	*	Выбор машины	*	Araba Seç	*	Selecteer wagen	*	Wybierz pojazd	*	車両選択	&
+upgrades_shop	*	Upgrades	*	Tuning	*	Actualizaciones	*	Améliorations	*	Aggiornamenti	*	Atualizações	*	Улучшения	*	Yükseltmeler	*	Upgrades	*	Ulepszenia	*	アップグレード	&
+map_shop	*	Select Track	*	Strecke auswählen	*	Seleccionar pista	*	Sélection du circuit	*	Seleziona percorso	*	Selecionar a Pista	*	Выбор трассы	*	Parkur Seç	*	Selecteer circuit	*	Wybierz trasę	*	マップ選択	&
+locked	*	Locked	*	Gesperrt	*	Bloqueado	*	Verrouillé	*	Bloccato	*	Bloqueado	*	Заблокировано	*	Kilitli	*	Vergrendeld	*	Zablokowane	*	ロック中	&
+for	*	for	*	für	*	para	*	pour	*	per	*	para	*	за	*	için	*	voor	*	dla	*	フォー	&
+car1	*	ROADSTER	*	ROADSTER	*	TURISMO	*	ROADSTER	*	DECAPOTTABILE	*	ROADSTER	*	ВНЕДОРОЖНИК	*	ROADSTER	*	ROADSTER	*	ROADSTER	*	ロードスター	&
+car2	*	WAGON	*	BUS	*	VAGONETA	*	FOURGON	*	STATION WAGON	*	CARRINHA	*	ФУРГОН	*	VAGON	*	WAGEN	*	FURGON	*	ワゴン	&
+car3	*	PICKUP MONSTER	*	PICKUP-MONSTER	*	CAMIÓN MONSTRUO	*	PICK-UP	*	CAMIONCINO	*	PICKUP MONSTER	*	ПИКАП МОНСТР	*	CANAVAR KOMYONET	*	PICK-UP MONSTER	*	MONSTER TRUCK	*	ピックアップモンスター	&
+car4	*	TRUCK	*	TRUCK	*	CAMIÓN	*	CAMION	*	CAMION	*	CAMIÃO	*	ГРУЗОВИК	*	KAMYON	*	VRACHTWAGEN	*	CIĘŻARÓWKA	*	トラック	&
+car5	*	HALF-TRACK	*	6x6 ATV	*	CAMIÓN SEMIORUGA	*	TOUT-TERRAIN	*	6x6 ATV	*	SEMILAGARTA	*	ВЕЗДЕХОД	*	YARI PALETLİ ARAÇ	*	HALFRUPSVOERTUIG	*	GĄSIENICOWY	*	ハーフトラック	&
+map1	*	PLAIN	*	EBENE	*	LLANURA	*	PLAINE	*	PIANURA	*	PLANÍCIE	*	РАВНИНА	*	OVA	*	VLAKTE	*	NIZINA	*	プレーン	&
+map2	*	HILLOCK	*	HÜGEL	*	MONTÍCULO	*	COLLINES	*	COLLINETTA	*	OUTEIRO	*	КОЧКИ	*	TÜMSEKLİK	*	KLEINE HEUVEL	*	PAGÓRKI	*	ヒルロック	&
+map3	*	DESERT	*	WÜSTE	*	DESIERTO	*	DÉSERT	*	DESERTO	*	DESERTO	*	ПУСТЫНЯ	*	ÇÖL	*	WOESTIJN	*	PUSTYNIA	*	デザート	&
+map4	*	ARCTIC	*	ARKTIS	*	ÁRTICO	*	ARCTIQUE	*	ARTICO	*	ÁRTICO	*	АРКТИКА	*	KUTUPSAL	*	ARCTISCH	*	ARKTYKA	*	アークティック	&
+map5	*	HILLS	*	GEBIRGE	*	COLINAS	*	MONTAGNES	*	COLLINE	*	COLINAS	*	ХОЛМЫ	*	TEPELİK	*	HEUVELS	*	WZGÓRZA	*	ヒル	&
+cost	*	Cost:	*	Kosten: 	*	Coste:	*	Coût :	*	Costo:	*	Custo:	*	Цена:	*	Maliyet:	*	Kost:	*	Koszt:	*	コスト：	&
+last_race	*	Last Race	*	Letztes Rennen	*	Última carrera	*	Dernière course	*	Ultima corsa	*	Última Corrida	*	Предыдущий заезд	*	Son Yarış	*	Laatste race	*	Ostatni wyścig	*	前回のレース	&
+descr_buy_car	*	Unlock	*	Freischalten	*	Desbloquear	*	Débloquer	*	Sblocca	*	Desbloquear	*	Открыть	*	Kilidini Aç	*	Ontgrendelen	*	Odblokuj	*	を購入する？	&
+descr_buy_track	*	Unlock	*	Freischalten	*	Desbloquear	*	Débloquer	*	Sblocca	*	Desbloquear	*	Открыть	*	Kilidini Aç	*	Ontgrendelen	*	Odblokuj	*	を開放する？	&
+buy_title	*	UNLOCK	*	FREISCHALTEN	*	DESBLOQUEAR	*	DÉBLOQUER	*	SBLOCCA	*	DESBLOQUEAR	*	ОТКРЫТЬ	*	KILIDINI AÇ	*	ONTGRENDELEN	*	ODBLOKUJ	*	アンロック	&
+buy_map_title	*	UNLOCK	*	FREISCHALTEN	*	DESBLOQUEAR	*	DÉBLOQUER	*	SBLOCCA	*	DESBLOQUEAR	*	ОТКРЫТЬ	*	KILIDINI AÇ	*	ONTGRENDELEN	*	ODBLOKUJ	*	アンロック	&
+upgrade_title	*	UPGRADE	*	AUFRÜSTEN	*	ACTUALIZAR	*	AMÉLIORATIONS	*	AGGIORNA	*	ATUALIZAR	*	УЛУЧШИТЬ	*	YÜKSELT	*	UPGRADEN	*	ULEPSZ	*	アップグレード	&
+max_fuel	*	Fuel	*	Tank	*	Combustible	*	Carburant	*	Carburante	*	Combustível	*	Топливо	*	Yakıt	*	Benzine	*	Paliwo	*	燃料	&
+engine_power	*	Engine	*	Motor	*	Motor	*	Moteur	*	Motore	*	Motor	*	Двигатель	*	Motor	*	Motor	*	Silnik	*	エンジン	&
+traction	*	Tires	*	Reifen	*	Llantas	*	Pneus	*	Pneumatici	*	Pneus	*	Шины	*	Tekerlek	*	Banden	*	Opony	*	タイヤ	&
+susp	*	Stability	*	Federung	*	Estabilidad	*	Stabilité	*	Stabilità	*	Estabilidade	*	Устойчивость	*	Stabilite	*	Stabiliteit	*	Stabilność	*	安定性	&
+max_fuel_descr	*	Increases max fuel	*	Erhöht die maximale Treistoffmenge	*	Aumenta el combustible máx.	*	Augmente la capacité en carburant	*	Aumenta il pieno	*	Aumenta o máx de combustível	*	Увеличивает запас топлива	*	Maks. yakıtı arttırır	*	Verhoogt max bezinegehalte	*	Zwiększa maks. paliwo	*	最大燃料の増加	&
+engine_power_descr	*	Increases engine power	*	Erhöht die Motorleistung	*	Aumenta la potencia del motor	*	Augmente la puissance du moteur	*	Aumenta la potenza del motore	*	Aumenta a potência do motor	*	Увеличивает мощность двигателя	*	Motor gücünü arttırır	*	Verhoogt motorkracht	*	Zwiększa moc silnika	*	エンジンパワーをあげる	&
+traction_descr	*	Increases road traction	*	Verbessert den Grip	*	Aumenta la tracción en carretera	*	Améliore l'accroche sur la route	*	Aumenta la trazione su strada	*	Aumenta a tração na estrada	*	Увеличивает сцепление с дорогой	*	Yol çekişini arttırır	*	Verhoogt baantractie	*	Polepsza trakcję	*	グリップ力をあげる	&
+susp_descr	*	Increases car stability	*	Verbessert die Stabilität	*	Aumenta la estabilidad del coche	*	Améliore la stabilité du véhicule	*	Aumenta la stabilità della macchina	*	Aumenta a estabilidade do carro	*	Увеличивает устойчивость	*	Araba stabilitesini arttırır	*	Verhoogt stabiliteit van wagen	*	Polepsza stabilność	*	安定性をあげる	&
+maxed	*	Maxed!	*	Maximum!	*	¡Al máximo!	*	Maximum atteint !	*	Limite massimo raggiunto!	*	Sobrecarregado!	*	Максимум!	*	En üs seviyede!	*	Maximum bereikt!	*	Maksimum!	*	マックス！	&
+record	*	Record	*	Rekord	*	Récord	*	Record	*	Record	*	Recorde	*	Рекорд	*	Rekor	*	Record	*	Rekord	*	レコード	&
+reach	*	Reach	*	Erreiche	*	Alcanzar	*	Atteindre	*	Portata	*	Atingir	*	Цель	*	Erişin	*	Bereik	*	Pokonaj	*	目標距離	&
+confirm_replay	*	Restart	*	Neustart	*	Reiniciar	*	Recommencer	*	Riavvia	*	Reiniciar	*	Перезагрузка	*	Yeniden başlat	*	Herstarten	*	Restart	*	リスタート	&
+replay_descr	*	Restart game?	*	Neustarten?	*	¿Reiniciar la partida?	*	Recommencer le jeu ?	*	Riavvia gioco?	*	Reiniciar o jogo?	*	Начать заново?	*	Oyun yeniden başlatılsın mı?	*	Spel herstarten?	*	Zacząć grę ponownie?	*	リスタートしますか？	&
+confirm_home	*	Quit	*	Beenden	*	Salir	*	Quitter	*	Abbandona	*	Sair	*	Выход	*	Çık	*	Verlaten	*	Wyjdź	*	やめる	&
+to_home_descr	*	Return to Upgrades?	*	Zurück zum Menü?	*	¿Volver a las Actualizaciones?	*	Revenir aux améliorations ?	*	Ritorna agli aggiornamenti?	*	Voltar às Atualizações?	*	Выйти в меню?	*	Yükseltmelere Geri Dönülsün mü?	*	Terug naar upgrades?	*	Powrócić do ulepszeń?	*	アップグレードに戻る？	&
+pause	*	Pause	*	Pause	*	Pausar	*	Pause	*	Pausa	*	Pausa	*	Пауза	*	Duraklat	*	Pauzeren	*	Pauza	*	ポーズ	&
+options	*	Options	*	Optionen	*	Opciones	*	Options	*	Opzioni	*	Opções	*	Опции	*	Seçenekler	*	Opties	*	Opcje	*	オプション	&
+free_coins	*	Get Free Coins	*	Hol Dir mehr Münzen	*	Obtener monedas gratis	*	Pièces gratuites	*	Ricevi monete gratuite	*	Obter Moedas Gratuitas	*	Бесплатные монетки	*	Ücretsiz Fiş Edin	*	Ontvang gratis munten	*	Zyskaj darmowe monety	*	無料コインをとろう	&
+reward	*	Reward	*	Belohnung	*	Recompensa	*	Récompense	*	Premio	*	Recompensa	*	Награда	*	Ödül	*	Beloning	*	Nagroda	*	報酬	&
+thanks	*	Thanks	*	Danke	*	Gracias	*	Merci	*	Grazie	*	Obrigado	*	Спасибо	*	Teşekkürler	*	Dank u	*	Dziękujemy	*	ありがとう	&
+maps	*	TRACKS	*	STRECKEN	*	PISTAS	*	CIRCUITS	*	TRACCIATI	*	PISTAS	*	ТРАССЫ	*	PARKURLAR	*	CIRCUITS	*	TRASY	*	マップ	&
+upgrades	*	UPGRADES	*	TUNING	*	ACTUALIZACIONES	*	AMÉLIORATIONS	*	AGGIORNAMENTI	*	ATUALIZAÇÕES	*	УЛУЧШЕНИЯ	*	YÜKSELTMELER	*	UPGRADES	*	ULEPSZENIA	*	アップグレード	&
+cars	*	CARS	*	FAHRZEUGE	*	COCHES	*	VÉHICULES	*	MACCHINE	*	CARROS	*	МАШИНЫ	*	ARABALAR	*	WAGENS	*	POJAZDY	*	車両	&
+play	*	PLAY	*	SPIELEN	*	JUGAR	*	JOUER	*	GIOCA	*	JOGAR	*	ИГРАТЬ	*	OYNA	*	SPEEL	*	GRAJ	*	開始	&
+menu	*	MENU	*	MENÜ	*	MENÚ	*	MENU	*	MENU	*	MENU	*	МЕНЮ	*	MENÜ	*	MENU	*	MENU	*	メニュー	&
+fuel_out	*	Out of fuel!	*	Tank leer!	*	¡Sin combustible!	*	Panne sèche !	*	Carburante esaurito!	*	Sem combustível!	*	Топливо кончилось	*	Yakıt bitti!	*	Benzinetank leeg!	*	Koniec paliwa!	*	燃料切れ！	&
+overturned	*	FLIPPED OVER!	*	ÜBERSCHLAGEN!	*	¡HA VOLCADO!	*	SUR LE TOIT !	*	CAPOVOLTO!	*	CAPOTOU!	*	Машина перевернулась	*	TERS DÖNÜLDÜ!	*	GEKANTELD!	*	WYWROTKA!	*	ひっくり返った！	&
+continue	*	Continue	*	Weiter	*	Continuar	*	Continuer	*	Contina	*	Continuar	*	Продолжить	*	Devam Et	*	Verdergaan	*	Kontynuuj	*	続ける	&
+distance	*	Distance:	*	Entfernung: 	*	Distancia:	*	Distance :	*	Distanza:	*	Distância:	*	Дистанция:	*	Mesafe:	*	Afstand:	*	Odległość:	*	走行距離：	&
+level_bonus	*	Record bonus:	*	Rekord-Bonus:	*	Bonificación por récord:	*	Bonus de record :	*	Bonus del record:	*	Bónus de recorde:	*	Record bonus:	*	Rekor bonusu:	*	Recordbonus:	*	Bonus za rekord:	*	レベルボーナス：	&
+start	*	START	*	START	*	EMPEZAR	*	DÉPART	*	INIZIA	*	INÍCIO	*	СТАРТ	*	BAŞLAT	*	START	*	START	*	スタート	&
+money_bonus	*	Map bonus: +{bonus}% Coins	*	Strecken-Bonus: +{bonus}% Münzen	*	Bonificación por distancia: +{bonus}% monedas	*	Bonus de carte : +{bonus} % pièces	*	Bonus della mappa: +{bonus}% Coins monete	*	Bónus de mapa: +{bonus}% Moedas	*	Бонус трассы: +{bonus}% Монет	*	Harita bonusu: +%{bonus} Fiş	*	Kaartbonus: +{bonus}% munten	*	Bonus za mapę: +{bonus}% Monety	*	マップボーナス： +{bonus}% コイン	&
+map_bonus	*	Map bonus:	*	Strecken-Bonus	*	Bonificación por distancia:	*	Bonus de carte :	*	Bonus della mappa:	*	Bónus de mapa:	*	Бонус трассы:	*	Harita bonusu:	*	Kaartbonus:	*	Bonus za mapę:	*	マップボーナス：	&
+back_flip_bonus	*	Flip Bonus:	*	Stunt-Bonus:	*	Bonificación por voltereta:	*	Bonus de saut périlleux :	*	Bonus del capovolgimento:	*	Bónus de Cambalhota:	*	Бонус переворота:	*	Takla Bonusu:	*	Saltobonus:	*	Bonus za wywrotkę:	*	フリップボーナス：	&
+level	*	Car level	*	Fahrzeug-Level	*	Nivel de coche	*	Niveau du véhicule	*	Livello della macchina	*	Nível de carro	*	Уровень машины	*	Araba seviyesi	*	Niveau wagen	*	Poziom pojazdu	*	車両レベル	&
+helmet	*	Helmets	*	Fahrer	*	Cascos	*	Casques	*	Caschi	*	Capacetes	*	Шлемы	*	Kasklar	*	Helmen	*	Kaski	*	ヘルメット	&
+add_fuel	*	Fuel Refilled!	*	Vollgetankt!	*	¡Combustible repuesto!	*	Réservoir plein !	*	Pieno carburante effettuato!	*	Depósito Atestado!	*	Топливо восстановлено!	*	Yakıt Dolduruldu!	*	Benzinetank bijgevuld!	*	Paliwo uzupełnione!	*	燃料補充！	&
+watched_all	*	You watched all available videos /n for now.	*	Du hast alle augenblicklich /n verfügbaren Videos gesehen.	*	Has visto todos los vídeos disponibles /n hasta ahora.	*	Vous avez regardé toutes les vidéos disponibles /n pour l'instant.	*	Hai guardato tutti i video disponibili /n per il momento.	*	Por agora, viu todos os vídeos disponíveis /n.	*	Вы посмотрели все доступные видео.	*	Şu anda var olan tüm videoları  /n izlediniz.	*	Je hebt voorlopig alle beschikbare video's /n bekeken.	*	Obejrzałeś wszystkie /n dostępne teraz filmy.	*	本日の動画広告は \n 全て見ました。	&
+music	*		*		*		*		*		*		*		*		*		*		*		&
+credits	*		*		*		*		*		*		*		*		*		*		*		&
